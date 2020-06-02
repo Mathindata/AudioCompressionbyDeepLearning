@@ -1,3 +1,5 @@
+# The main pupose of this repository is to serve as a code sample. Codes here are a few samples of the main project I did for my PhD at UdeS. For patent reasons, the original repository is private yet.
+
 # End-to-end speech compression with perceptual feedback from an automatic speech recognizer
 
 ## Dependencies
